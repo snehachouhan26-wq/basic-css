@@ -94,7 +94,7 @@ p{
 .summerp{
         background-image: url(summer-camp.png);
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: cover;
         background-position: center;
         background-attachment: fixed;
         height: 100vh;
